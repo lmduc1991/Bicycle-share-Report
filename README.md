@@ -25,10 +25,10 @@ This personal project was developed to enhance my skills in data analysis, visua
 - **Temporal Analysis**: Usage trends shown by hour of day, day of week, and month.
 
 ## 📷 Screenshots
-- [Overview Page](images/Overview.png)
-- [Stations Detail Page](images/station_detail.png)
-- [Dynamic Filters & Slicers](images/dynamic_filters.gif)
-- [Dynamic Filters top n stations to show](images/dynamic_filters_top_stations.gif)
+- ![Overview Page](images/Overview.png)
+- ![Stations Detail Page](images/station_detail.png)
+- ![Dynamic Filters & Slicers](images/dynamic_filters.gif)
+- ![Dynamic Filters top n stations to show](images/dynamic_filters_top_stations.gif)
 
 ## 📁 Project Structure
 - `Bicycle Power BI.pbix`: Main Power BI report file containing all data transformations, visuals, and DAX measures.
